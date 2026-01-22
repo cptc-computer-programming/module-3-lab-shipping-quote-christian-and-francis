@@ -9,7 +9,11 @@ Write your cost formula (math or pseudocode). It must include:
 - at least one size-based factor
 
 ```java 
-// formula could go here
+// first part of the formula: 
+// density: weight / volume
+// 
+// second part part of the formula:
+// longest side: max(length, width, height)
 ```
 Size factor selected (choose at least one):
 - sqrt(volume)
@@ -22,6 +26,10 @@ Size factor selected (choose at least one):
 
 Brief justification (2–4 sentences):
 
+Because we use density since to find the weight package,
+This would happen by dividing weight by volume.
+
+Next,  the longest side ; length, width and height to get the result of the size.
 ---
 
 ## Method List (at least 5)
